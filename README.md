@@ -1,9 +1,23 @@
 # Hi, I'm Akarsh Singh 👋
 
-**Electrical Engineering Student | Frontend Developer | Problem Solver**
+<img align="right" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyfyGCAb7soD6qGGf6aUrAnJCHFf-Xt1H2YXao-Msa9lL1Qi5I" width="400" height="250" alt="Coding GIF">
 
-## About Me
-I'm currently pursuing my B.Tech in Electrical Engineering at MNNIT Allahabad. I have a strong passion for software development and problem-solving, particularly in Data Structures and Algorithms. I enjoy building scalable web applications using modern technologies like React and JavaScript. Always keen on learning and improving, I love working on projects that challenge my skills and expand my knowledge.
+**Electrical Engineering Student | Full-Stack Developer | Problem Solver**
+
+---
+
+### 🚀 Profile Summary
+I'm a final-year Electrical Engineering student passionate about full-stack development and problem-solving. My expertise spans React.js, JavaScript, and C++, and I thrive on building dynamic web applications that are both functional and user-friendly. I enjoy participating in coding contests and constantly seek new challenges to hone my skills.
+
+---
+
+## 📑 Table of Contents
+- [About Me](#about-me)
+- [Technical Skills](#technical-skills)
+- [Projects](#projects)
+- [Achievements](#achievements)
+- [Currently Learning](#currently-learning)
+- [How to Reach Me](#how-to-reach-me)
 
 ---
 
@@ -13,7 +27,7 @@ I'm currently pursuing my B.Tech in Electrical Engineering at MNNIT Allahabad. I
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-  
+
 - **Web Technologies/Frameworks**: 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
