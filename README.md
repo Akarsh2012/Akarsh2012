@@ -4,6 +4,8 @@
 
 **Electrical Engineering Student | Full-Stack Developer | Problem Solver**
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akarsh2012.Akarsh2012)
+
 ---
 
 ### 🚀 Profile Summary
@@ -18,6 +20,7 @@ I'm a final-year Electrical Engineering student passionate about full-stack deve
 - [Achievements](#achievements)
 - [Currently Learning](#currently-learning)
 - [How to Reach Me](#how-to-reach-me)
+- [GitHub Stats](#github-stats)
 
 ---
 
@@ -75,5 +78,13 @@ I'm a final-year Electrical Engineering student passionate about full-stack deve
 
 ---
 
+## 📊 GitHub Stats
+![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh2012&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh2012&layout=compact&theme=radical)
+
+---
+
 Feel free to explore my repositories and projects. Let's connect!
+
 
