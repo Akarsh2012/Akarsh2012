@@ -1,6 +1,6 @@
-# Hi, I'm Akarsh Singh 👋
-
 <img align="right" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyfyGCAb7soD6qGGf6aUrAnJCHFf-Xt1H2YXao-Msa9lL1Qi5I" width="400" height="250" alt="Coding GIF">
+
+# Hi, I'm Akarsh Singh 👋
 
 **Electrical Engineering Student | MERN Stack Developer | Problem Solver**
 
