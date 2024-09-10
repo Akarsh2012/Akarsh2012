@@ -2,14 +2,14 @@
 
 <img align="right" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyfyGCAb7soD6qGGf6aUrAnJCHFf-Xt1H2YXao-Msa9lL1Qi5I" width="400" height="250" alt="Coding GIF">
 
-**Electrical Engineering Student | Full-Stack Developer | Problem Solver**
+**Electrical Engineering Student | MERN Stack Developer | Problem Solver**
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akarsh2012.Akarsh2012)
 
 ---
 
 ### 🚀 Profile Summary
-I'm a final-year Electrical Engineering student passionate about full-stack development and problem-solving. My expertise spans React.js, JavaScript, and C++, and I thrive on building dynamic web applications that are both functional and user-friendly. I enjoy participating in coding contests and constantly seek new challenges to hone my skills.
+I'm a final-year Electrical Engineering student passionate about full-stack software development and algorithmic problem-solving. With proficiency in React.js, JavaScript, and C++, I specialize in building robust, scalable, and dynamic web applications with a seamless user experience. I consistently strive to tackle complex coding challenges, excelling in competitive programming and driving impactful results. My technical expertise, combined with a deep understanding of data structures and algorithms, enables me to craft efficient and innovative solutions. I'm eager to apply my skills in a software engineering role, constantly seeking new challenges to elevate my technical growth.
 
 ---
 
