@@ -4,7 +4,7 @@
 
 **Electrical Engineering Student | Full-Stack MERN Developer | Competitive Programmer**
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Akarsh2012.Akarsh2012)
+![Visitors](https://komarev.com/ghpvc/?username=Akarsh2012&color=green)
 
 ---
 
