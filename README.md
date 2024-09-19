@@ -49,13 +49,13 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
 ## 🛠️ Projects
 
 - **[Shortify](https://shortify-n3ul.onrender.com/shortify)**  
-  Developed a high-performance URL shortening service using Node.js, Express.js, and EJS. It efficiently handles thousands of requests, providing real-time analytics with click tracking, and ensuring optimal performance across devices&#8203;:contentReference[oaicite:0]{index=0}.
+  Developed a high-performance URL shortening service using Node.js, Express.js, and EJS. It efficiently handles thousands of requests, providing real-time analytics with click tracking, and ensuring optimal performance across devices&#8203;.
 
 - **[Headlines Hub](https://github.com/Akarsh2012/HeadlinesHub)**  
-  A scalable news aggregation platform built using React.js, offering real-time updates and category-based filtering. It is designed as a Progressive Web App (PWA) for a smooth user experience on mobile and desktop devices&#8203;:contentReference[oaicite:1]{index=1}.
+  A scalable news aggregation platform built using React.js, offering real-time updates and category-based filtering. It is designed as a Progressive Web App (PWA) for a smooth user experience on mobile and desktop devices&#8203;.
 
 - **[N Queens Visualizer](https://n-queens-visualiser-by-akarsh.netlify.app/)**  
-  An interactive visualizer for the N-Queens problem, utilizing recursion and backtracking algorithms to find solutions on various chessboard sizes. Built using HTML, CSS, and JavaScript&#8203;:contentReference[oaicite:2]{index=2}.
+  An interactive visualizer for the N-Queens problem, utilizing recursion and backtracking algorithms to find solutions on various chessboard sizes. Built using HTML, CSS, and JavaScript&#8203;.
 
 ---
 
