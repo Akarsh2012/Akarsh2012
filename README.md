@@ -33,6 +33,7 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
 
 - **Web Technologies/Frameworks/Databases**:  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
@@ -48,19 +49,19 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
 
 ## 🛠️ Projects
 
+- **[ImaginIQ-AI](https://melodious-tanuki-546e92.netlify.app/)**  
+  Built an AI-powered image generation platform using the MERN stack, integrating Cloudinary for scalable storage and delivering high-quality, user-customized outputs.&#8203;.
+
 - **[Shortify](https://shortify-n3ul.onrender.com/shortify)**  
   Developed a high-performance URL shortening service using Node.js, Express.js, and EJS. It efficiently handles thousands of requests, providing real-time analytics with click tracking, and ensuring optimal performance across devices&#8203;.
 
 - **[Headlines Hub](https://github.com/Akarsh2012/HeadlinesHub)**  
   A scalable news aggregation platform built using React.js, offering real-time updates and category-based filtering. It is designed as a Progressive Web App (PWA) for a smooth user experience on mobile and desktop devices&#8203;.
 
-- **[N Queens Visualizer](https://n-queens-visualiser-by-akarsh.netlify.app/)**  
-  An interactive visualizer for the N-Queens problem, utilizing recursion and backtracking algorithms to find solutions on various chessboard sizes. Built using HTML, CSS, and JavaScript&#8203;.
-
 ---
 
 ## 🏆 Achievements
-- **Leetcode**: Solved 700+ problems, maintained a 300-day streak
+- **Leetcode**: Solved 750+ problems, maintained a 300-day streak
 - **Codechef**: 3-Star (Max Rating: 1624)
 - **Leetcode Biweekly Contest 139**: Global Rank - 800
 - **Codechef Contest 125 Div 3**: Global Rank - 336
@@ -69,7 +70,7 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
 ---
 
 ## 🌱 Currently Learning
-- Advanced React.js techniques and backend development with Node.js
+- Advanced Next.js techniques and backend development with Node.js
 - System design and scaling web applications
 
 ---
@@ -84,6 +85,8 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
 
 ## 📊 GitHub Stats
 ![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh2012&show_icons=true&theme=radical)
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh2012&layout=compact&theme=radical)
 
