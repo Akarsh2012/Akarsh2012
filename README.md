@@ -49,6 +49,9 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
 
 ## 🛠️ Projects
 
+- **[Subscription Tracker API](https://github.com/Akarsh2012/Subscription-Tracker-API)**  
+  Designed and developed a robust Subscription Tracker API using Node.js and Express.js. This API efficiently manages user subscriptions, sends automated reminders, and provides detailed analytics on subscription usage and renewals.
+  
 - **[ImaginIQ-AI](https://melodious-tanuki-546e92.netlify.app/)**  
   Built an AI-powered image generation platform using the MERN stack, integrating Cloudinary for scalable storage and delivering high-quality, user-customized outputs.&#8203;.
 
@@ -65,8 +68,7 @@ I am a final-year Electrical Engineering student at MNNIT Allahabad with a stron
 - **Codechef**: 3-Star (Max Rating: 1624)
 - **Leetcode Biweekly Contest 139**: Global Rank - 800
 - **Codechef Contest 125 Div 3**: Global Rank - 336
-- District-level Drawing Competition (Reliance): 1st place, awarded Rs 1 lakh&#8203;:contentReference[oaicite:3]{index=3}
-
+- District-level Drawing Competition (Reliance): 1st place, awarded Rs 1 lakh&#8203;
 ---
 
 ## 🌱 Currently Learning
