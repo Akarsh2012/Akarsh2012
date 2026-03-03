@@ -142,9 +142,17 @@ MERN Stack + Cloudinary
 
 ## 📊 GitHub Stats
 
-![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh2012&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akarsh2012&theme=radical&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh2012&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akarsh2012&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akarsh2012&theme=radical" />
+</p>
 
 ---
 
