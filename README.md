@@ -2,98 +2,150 @@
 
 # Hi, I'm Akarsh Singh 👋
 
-**Electrical Engineering Student | Full-Stack MERN Developer | Competitive Programmer**
+**Software Engineer | Full-Stack Systems Builder | AI-Integrated Backend Engineer | Competitive Programmer**
 
 ![Visitors](https://komarev.com/ghpvc/?username=Akarsh2012&color=green)
 
 ---
 
 ### 🚀 Profile Summary
-I am a final-year Electrical Engineering student at MNNIT Allahabad with a strong passion for full-stack development and algorithmic problem-solving. I have hands-on experience with MERN stack (MongoDB, Express.js, React, Node.js) and a deep understanding of Data Structures and Algorithms. I excel in building scalable and dynamic web applications, while consistently tackling complex coding challenges in competitive programming. With over 700+ solved problems on Leetcode, I focus on delivering efficient and impactful solutions.
+I am a Software Engineer building enterprise-grade systems and AI-integrated solutions used in real-world marine procurement operations. I specialize in scalable backend architecture, performance optimization, secure real-time systems, and intelligent workflow automation.
+
+I combine strong Data Structures & Algorithms expertise with practical system design and production deployment experience to build performant, secure, and high-impact software systems.
 
 ---
 
 ## 📑 Table of Contents
 - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
+- [Professional Experience](#professional-experience)
 - [Projects](#projects)
 - [Achievements](#achievements)
-- [Currently Learning](#currently-learning)
+- [Currently Exploring](#currently-exploring)
 - [How to Reach Me](#how-to-reach-me)
 - [GitHub Stats](#github-stats)
 
 ---
 
+## 👨‍💻 About Me
+
+- 🚀 Software Engineer at Varuna Sentinels B.V. (Netherlands HQ)
+- ⚡ Reduced enterprise DB latency by 70% (48s → 8s page load improvement)
+- 🤖 Designed and implemented an AI-powered chatbot system from scratch for internal workflows
+- 🔐 Built secure real-time systems using WebSockets + JWT + HMAC authentication
+- ☁️ Designed and deployed scalable APIs using AWS (Lambda, API Gateway, RDS, S3)
+- 🧠 Strong foundation in DSA, System Design & Backend Architecture
+- 🏆 Competitive Programmer with consistent global rankings
+
+---
+
 ## 🔧 Technical Skills
-- **Programming Languages**:  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-- **Web Technologies/Frameworks/Databases**:  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### Programming Languages
+C++, JavaScript, TypeScript, SQL, Java
 
-- **Tools**:  
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Backend & Frameworks
+Node.js, Express.js, Sequelize ORM, REST APIs, JWT Authentication
+
+### Frontend
+React.js, Angular, Redux, Chart.js, HTML5, CSS3
+
+### Databases
+MySQL, MongoDB, Redis
+
+### Cloud & DevOps
+AWS (Lambda, API Gateway, EC2, RDS, S3, Cognito), Docker, Kubernetes, Serverless Framework, Git, Postman
+
+### Core Concepts
+Data Structures & Algorithms  
+System Design  
+OOPs  
+Operating Systems  
+DBMS  
+Computer Networks  
+Multithreading & Concurrency  
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer — Varuna Sentinels B.V.  
+*Jun 2025 – Present | Hybrid (Netherlands HQ)*
+
+**Marine Procurement System (VS-MPS)**
+
+- Optimized complex MySQL stored procedures and API responses using JSON aggregation and query redesign, reducing DB latency by 70%.
+- Improved page load time from 48 seconds to 8 seconds across RFQ/PO/Invoice modules.
+- Designed and implemented an AI-powered chatbot from scratch to assist internal users with workflow navigation and procurement queries, integrating backend APIs securely.
+- Architected chatbot request handling, prompt logic structuring, validation layers, and API orchestration.
+- Built secure real-time Buyer–Supplier messaging using WebSockets with JWT + HMAC-SHA256 authentication.
+- Designed role-based validation architecture and deployed backend services using AWS Lambda + API Gateway.
+- Took complete ownership of modules from requirement gathering to deployment and production debugging.
 
 ---
 
 ## 🛠️ Projects
 
-- **[Subscription Tracker API](https://github.com/Akarsh2012/Subscription-Tracker-API)**  
-  Designed and developed a robust Subscription Tracker API using Node.js and Express.js. This API efficiently manages user subscriptions, sends automated reminders, and provides detailed analytics on subscription usage and renewals.
-  
-- **[ImaginIQ-AI](https://melodious-tanuki-546e92.netlify.app/)**  
-  Built an AI-powered image generation platform using the MERN stack, integrating Cloudinary for scalable storage and delivering high-quality, user-customized outputs.&#8203;.
+### 🔹 Subscription Tracker API  
+Node.js, Express.js, MongoDB, JWT, Arcjet, Upstash
 
-- **[Shortify](https://shortify-n3ul.onrender.com/shortify)**  
-  Developed a high-performance URL shortening service using Node.js, Express.js, and EJS. It efficiently handles thousands of requests, providing real-time analytics with click tracking, and ensuring optimal performance across devices&#8203;.
+- Built a production-ready subscription management system with role-based authentication.
+- Implemented rate limiting and bot protection (reduced malicious traffic by 40%).
+- Engineered centralized logging & global error handling, reducing debugging time by 35%.
+- Automated reminder workflows to improve user retention.
 
-- **[Headlines Hub](https://github.com/Akarsh2012/HeadlinesHub)**  
-  A scalable news aggregation platform built using React.js, offering real-time updates and category-based filtering. It is designed as a Progressive Web App (PWA) for a smooth user experience on mobile and desktop devices&#8203;.
+---
+
+### 🔹 Shortify  
+Node.js, Express.js, MongoDB, JWT, EJS
+
+- Developed a high-performance URL shortening service.
+- Implemented real-time click tracking and analytics.
+- Designed secure authentication and route protection.
+
+---
+
+### 🔹 ImaginIQ-AI  
+MERN Stack + Cloudinary
+
+- Built AI-powered image generation platform.
+- Integrated scalable media storage and optimized performance.
 
 ---
 
 ## 🏆 Achievements
-- **Leetcode**: Solved 750+ problems, maintained a 300-day streak
-- **Codechef**: 3-Star (Max Rating: 1624)
-- **Leetcode Biweekly Contest 139**: Global Rank - 800
-- **Codechef Contest 125 Div 3**: Global Rank - 336
-- District-level Drawing Competition (Reliance): 1st place, awarded Rs 1 lakh&#8203;
+
+- Specialist on Codeforces (Rating: 1432)
+- LeetCode Global Rank ~700 (Biweekly Contest 139)
+- 750+ Problems Solved on LeetCode
+- Hackathon Winner – CircuitBuzz (1st Place)
+
 ---
 
-## 🌱 Currently Learning
-- Advanced Next.js techniques and backend development with Node.js
-- System design and scaling web applications
+## 🌱 Currently Exploring
+
+- Advanced System Design Patterns
+- High-Performance Backend Architecture
+- Distributed Systems & Event-Driven Architecture
+- AI System Integration in Enterprise Workflows
 
 ---
 
 ## 📫 How to reach me
-- **Email**: [akarshs641@gmail.com](mailto:akarshs641@gmail.com)
-- **LinkedIn**: [Akarsh Singh](https://www.linkedin.com/in/akarsh-singh-24436a243/)
-- **GitHub**: [Akarsh2012](https://github.com/Akarsh2012)
-- **Leetcode**: [Akarsh Singh](https://leetcode.com/u/Akarsh_Singh_2211/)
+
+- **Email**: akarshs145@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/akarsh-singh-24436a243/  
+- **GitHub**: https://github.com/Akarsh2012  
+- **Leetcode**: https://leetcode.com/u/Akarsh_Singh_2211/
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh2012&show_icons=true&theme=radical)
-
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh2012&layout=compact&theme=radical)
 
 ---
 
-Feel free to explore my repositories, and don't hesitate to connect for collaboration!
-
-
+Always building systems that scale — from backend performance optimization to AI-powered workflow automation.
